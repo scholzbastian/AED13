@@ -1,0 +1,10 @@
+AED13 – Die letzte Aufzeichnung
+
+Ihr rekonstruiert einen beschädigten Reanimationsdatensatz. Entscheidend ist nicht Geschwindigkeit, sondern die Qualität eurer Entscheidungen. Prüft Informationen, gewichtet Befunde und rekonstruiert, was im Einsatz passiert ist.
+
+Hinweise:
+- Arbeitet als Team.
+- Audio am iPad erst nach Antippen des Startbuttons.
+- Zeitüberschreitungen beenden das Spiel nicht.
+- Nicht jede Auffälligkeit ist automatisch ein Fehler.
+- Neue Lerninformation wird im Spiel ausdrücklich als solche gekennzeichnet.
